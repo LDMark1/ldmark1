@@ -1,104 +1,135 @@
 # Hi, I'm Abdul Rafae 👋  
-Frontend Software Engineer | React & Next.js Specialist
+**Full-Stack Software Engineer | Python, React & Next.js**
 
-I build scalable, accessible, and high-performance web applications using modern React architecture.  
-My work focuses on reusable component systems, frontend performance optimisation, and production-grade UI engineering.
+I design and build scalable, production-ready web applications across the entire stack — from backend architecture and database optimisation to responsive frontend interfaces.
 
----
+My work focuses on building reliable APIs, efficient data pipelines, and high-performance user interfaces that deliver real-world value. I have experience developing data-driven systems, optimising complex SQL queries, and deploying applications to modern cloud environments.
 
-## 🛠 Frontend Tech Stack
-
-### Core
-- React (TypeScript)
-- Next.js (SSR / SSG / ISR)
-- JavaScript (ES6+)
-
-### Architecture & Patterns
-- Component-based architecture
-- Custom Hooks
-- Context API
-- Structured state management
-- Dynamic routing
-- Role-based UI rendering
-
-### Performance & Optimisation
-- Code-splitting
-- Lazy loading
-- Memoisation strategies
-- Optimised API consumption
-- SEO optimisation (Next.js)
-- Lighthouse performance tuning
-
-### Styling & UI
-- TailwindCSS
-- MUI
-- CSS3 / HTML5
-- Mobile-first responsive design
-- Reusable UI systems
+I prioritise **clean architecture, maintainable codebases, and performance-focused engineering**, ensuring applications remain scalable as they grow.
 
 ---
 
-## 🚀 Featured Frontend Projects
+# 🛠 Full-Stack Tech Stack
 
-### 🛍 Flip & Fresh  
-Modern E-Commerce Frontend  
-Next.js · TypeScript · TailwindCSS  
+## Backend
+- Python  
+- Flask / REST APIs  
+- API architecture & design  
+- Authentication & secure endpoints  
+- Background jobs & automation  
+- Data processing & integrations  
 
-A scalable e-commerce interface built with structured component architecture and conversion-focused design.
+## Frontend
+- React (TypeScript)  
+- Next.js (SSR / SSG / ISR)  
+- JavaScript (ES6+)  
+- Component-based architecture  
+- Dynamic routing  
+- Role-based UI rendering  
 
-- Dynamic product listing & detail pages
-- Clean and modular component hierarchy
-- Mobile-first, responsive layout
-- Server-side rendering for improved performance & SEO
+## Databases & Data
+- PostgreSQL  
+- SQL query optimisation  
+- Data modelling  
+- Reporting pipelines  
+- Analytics dashboards  
 
-🔗 Live: https://flip-and-fresh-portfolio.vercel.app/  
-🔗 Code: https://github.com/LDMark1/flip-and-fresh
+## Performance & Optimisation
+- Efficient API design  
+- Database indexing & query tuning  
+- Lazy loading & code splitting  
+- Lighthouse optimisation  
+- Sub-2s dashboard load times  
 
----
+## Styling & UI
+- TailwindCSS  
+- MUI  
+- CSS3 / HTML5  
+- Mobile-first responsive design  
+- Reusable UI systems  
 
-### 🛡 PhishGuard  
-Security Awareness Platform  
-React · TypeScript · TailwindCSS  
-
-An educational frontend platform designed for clarity, accessibility, and structured content delivery.
-
-- Modular UI sections
-- Strong information hierarchy
-- Interactive learning components
-- Responsive multi-device support
-
-🔗 Live: https://phishing-awareness-website-six.vercel.app/  
-🔗 Code: https://github.com/LDMark1/phishing-awareness-website
-
----
-
-### 📦 NextGen Parcel Logistics Platform  
-Dynamic Tracking Application  
-Next.js · TypeScript · TailwindCSS  
-
-A parcel tracking system featuring structured routing and reusable UI modules for shipment status visualisation.
-
-- Dynamic route handling
-- API-driven tracking updates
-- Shipment history components
-- Status visualisation system
-- Optimised rendering strategy
-
-🔗 Code: https://github.com/LDMark1/parcel-tracking-app
+## DevOps & Deployment
+- Vercel deployments  
+- CI/CD workflows  
+- Cloud-hosted applications  
+- Environment management  
+- Production monitoring  
 
 ---
 
-## 📊 What I Focus On
+# 🚀 Featured Projects
 
-- Scalable React architecture
-- Maintainable component systems
-- Frontend performance as a core feature
-- Translating complex logic into intuitive UI
-- Delivering production-ready digital experiences
+## 🛍 Flip & Fresh  
+**Modern E-Commerce Platform**  
+Next.js · TypeScript · TailwindCSS
+
+A scalable e-commerce platform built with structured component architecture and performance-focused rendering.
+
+**Key Features**
+- Dynamic product listing and detail pages  
+- Server-side rendering for SEO and performance  
+- Modular reusable component architecture  
+- Fully responsive mobile-first interface  
+
+🔗 **Live:**  
+https://flip-and-fresh-portfolio.vercel.app/
+
+🔗 **Code:**  
+https://github.com/LDMark1/flip-and-fresh
 
 ---
 
-## 📫 Connect
+## 🛡 PhishGuard  
+**Security Awareness Platform**  
+React · TypeScript · TailwindCSS
 
-Portfolio: https://abdulrafae.vercel.app  
-GitHub: https://github.com/LDMark1
+An educational platform focused on improving phishing awareness through clear UX and structured learning content.
+
+**Key Features**
+- Modular learning components  
+- Accessible UI and structured information hierarchy  
+- Responsive multi-device support  
+- Interactive educational sections  
+
+🔗 **Live:**  
+https://phishing-awareness-website-six.vercel.app/
+
+🔗 **Code:**  
+https://github.com/LDMark1/phishing-awareness-website
+
+---
+
+## 📦 NextGen Parcel Logistics Platform  
+**Parcel Tracking Application**  
+Next.js · TypeScript · TailwindCSS
+
+A logistics tracking platform designed to visualise shipment progress using dynamic routing and API-driven updates.
+
+**Key Features**
+- Dynamic tracking routes  
+- Shipment history timeline  
+- Status visualisation system  
+- Reusable UI components for logistics data  
+
+🔗 **Code:**  
+https://github.com/LDMark1/parcel-tracking-app
+
+---
+
+# 📊 What I Focus On
+
+- Designing scalable full-stack architectures  
+- Building reliable and maintainable APIs  
+- Optimising databases for performance  
+- Developing intuitive, high-performance user interfaces  
+- Turning complex data into clear, actionable dashboards  
+
+---
+
+# 📫 Connect
+
+**Portfolio**  
+https://abdulrafae.vercel.app  
+
+**GitHub**  
+https://github.com/LDMark1
